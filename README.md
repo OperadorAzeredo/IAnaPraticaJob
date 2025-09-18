@@ -247,8 +247,6 @@ python setup.py
 python src/main.py
 ```
 
-**🎉 Pronto! Seu assistente de viagem IA está funcionando!**
-
 ---
 
 *💡 Este projeto foi desenvolvido para demonstrar as capacidades avançadas do LangChain com Router Chains, RAG e sistemas de classificação de intenções para casos de uso reais de turismo.*
